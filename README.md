@@ -4,4 +4,5 @@ https://matricole.polinetwork.org
 
 Main website:
 
-https://polinetwork.org
+* https://polinetwork.org
+* https://polinetworkorg.github.io/MatricoleWebsite/
