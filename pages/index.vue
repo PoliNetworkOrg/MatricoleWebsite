@@ -68,12 +68,22 @@
             class="btn-get-started button2 button25"
             style="font-size: calc(16px + 1vw)"
           >
-            <a
-              href="https://polinetwork.org/"
-            >
+            <a href="https://bit.ly/matricolepolimi">
               <div style="padding: 5px">
                 <span style="color: white" class="textGroup2">
-                  📌 Sito Principale</span
+                  ❕ Gruppi matricole 2022/2023 triennale ❕</span
+                >
+              </div>
+            </a>
+          </div>
+		  <div
+            class="btn-get-started button2 button25"
+            style="font-size: calc(16px + 1vw)"
+          >
+            <a href="https://bit.ly/matricolemagistrale">
+              <div style="padding: 5px">
+                <span style="color: white" class="textGroup2">
+                  ❕ Gruppi matricole 2022/2023 magistrale ❕</span
                 >
               </div>
             </a>
@@ -86,7 +96,7 @@
       />
       <div style="padding-top: 0px">&nbsp;</div>
       <h2 style="color: white; text-align: center; margin-bottom: 0px">
-        Progetti Interessanti:
+        Gruppi generali:
       </h2>
       <div style="padding: 0.2rem"></div>
       <div style="padding-left: 1rem; padding-right: 1rem">
@@ -97,15 +107,15 @@
                 class="btn-get-started button2 button25"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://polinetwork.org/projects/poliauth/">
+                <a href="https://t.me/polimatricole/2142">
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/web.svg" class="imgTable" />
+                        <img src="/img/tg.svg" class="imgTable" />
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
-                          >PoliAuth</span
+                          >Gruppo matricole triennale 2022/2023</span
                         >
                       </td>
                     </tr>
@@ -120,15 +130,66 @@
                 class="btn-get-started button2 button25"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://polinetwork.org/projects/webeepsync/">
+                <a href="https://t.me/joinchat/Y77cDEonI5xiYThk">
                   <table>
                     <tr>
                       <td style="vertical-align: middle; padding: 5px">
-                        <img src="/img/web.svg" class="imgTable" />
+                        <img src="/img/tg.svg" class="imgTable" />
                       </td>
                       <td style="padding: 5px">
                         <span style="color: white" class="textGroup2"
-                          >WebeepSync</span
+                          >Gruppo matricole magistrale 2022/2023</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="button29">
+          <div class="button30">
+            <div class="button26">
+              <div
+                class="btn-get-started button2 button25"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a
+                  href="https://www.facebook.com/groups/matricole20172018polimi"
+                >
+                  <table>
+                    <tr>
+                      <td style="vertical-align: middle; padding: 5px">
+                        <img src="/img/fb.svg" class="imgTable" />
+                      </td>
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
+                          >Gruppo Facebook per tutti gli studenti</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="button30">
+            <div class="button26">
+              <div
+                class="btn-get-started button2 button25"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://t.me/PoliGruppo">
+                  <table>
+                    <tr>
+                      <td style="vertical-align: middle; padding: 5px">
+                        <img src="/img/tg.svg" class="imgTable" />
+                      </td>
+                      <td style="padding: 5px">
+                        <span style="color: white" class="textGroup2"
+                          >Gruppo Telegram per tutti gli studenti</span
                         >
                       </td>
                     </tr>
@@ -140,9 +201,151 @@
         </div>
       </div>
 
+
+<!--- extra -->
+      <div style="padding-top: 0px">&nbsp;</div>
+      <hr
+        style="height: 1px; border: none; color: #333; background-color: #333"
+      />
+      <div style="padding-top: 0px">&nbsp;</div>
+      <h2 style="color: white; text-align: center; margin-bottom: 0px">
+        Extra
+      </h2>
+      <div style="padding: 0.2rem"></div>
+<div style="padding-left: 1rem; padding-right: 1rem">
+     <div class="button28">
+					<div class="button27">
+						<div class="button26" style="display: ruby-base;">
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://polinetwork.github.io/it/extra/index.html">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>🧩 Gruppi extra</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://t.me/joinchat/4kO9DtAiTVM0NTU0">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>⚖ Diritto allo studio</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://t.me/joinchat/b8d7Iy5gKNE3MjU0">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>📝 Piano di studi</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://t.me/AskPolimi">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>Domande per la rappresentanza?</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://polinetwork.github.io/graduatorie/">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>GRADUATORIE</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+							<div
+								class="btn-get-started button2 button25 button99"
+								style="font-size: calc(16px + 1vw)"
+							>
+								<a href="https://polinetwork.github.io/it/extra/assoc/">
+									<table>
+										<tr>
+											<td style="padding: 5px">
+												<span
+													style="color: rgb(214, 209, 209)"
+													class="textGroup2"
+													>Scopri le associazioni studentesche!</span
+												>
+											</td>
+										</tr>
+									</table>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+      </div>
+
+
+
+<!-- social web-->
+      <div style="padding-top: 0px">&nbsp;</div>
+      <hr
+        style="height: 1px; border: none; color: #333; background-color: #333"
+      />
+      <div style="padding-top: 0px">&nbsp;</div>
+      <h2 style="color: white; text-align: center; margin-bottom: 0px">
+        Website &amp; social:
+      </h2>
+      <div style="padding: 0.2rem"></div>
+	  <br />
       <div style="width: 100%; text-align: center">
-        <h2 style="color: white">Website &amp; social:</h2>
-        <div style="padding: 0.2rem"></div>
+       
         <div style="padding-left: 1rem; padding-right: 1rem">
           <div class="button28">
             <div class="button27">
