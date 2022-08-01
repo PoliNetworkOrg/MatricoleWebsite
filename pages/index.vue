@@ -64,29 +64,33 @@
             -->
       <div style="padding-left: 0.5rem; padding-right: 0.5rem">
         <div style="width: 100%; text-align: center; margin: auto">
-          <div
-            class="btn-get-started button2 button25"
-            style="font-size: calc(16px + 1vw)"
-          >
-            <a href="https://bit.ly/matricolepolimi">
-              <div style="padding: 5px">
-                <span style="color: white" class="textGroup2">
-                  ❕ Gruppi matricole 2022/2023 triennale ❕</span
-                >
-              </div>
-            </a>
+          <div style="margin:5px;">
+            <div
+              class="btn-get-started button2 button25"
+              style="font-size: calc(16px + 1vw)"
+            >
+              <a href="https://bit.ly/matricolepolimi">
+                <div style="padding: 5px">
+                  <span style="color: white" class="textGroup2">
+                    ❕ Gruppi matricole 2022/2023 triennale ❕</span
+                  >
+                </div>
+              </a>
+            </div>
           </div>
-		  <div
-            class="btn-get-started button2 button25"
-            style="font-size: calc(16px + 1vw)"
-          >
-            <a href="https://bit.ly/matricolemagistrale">
-              <div style="padding: 5px">
-                <span style="color: white" class="textGroup2">
-                  ❕ Gruppi matricole 2022/2023 magistrale ❕</span
-                >
-              </div>
-            </a>
+           <div style="margin:5px;">
+            <div
+              class="btn-get-started button2 button25"
+              style="font-size: calc(16px + 1vw)"
+            >
+              <a href="https://bit.ly/matricolemagistrale">
+                <div style="padding: 5px">
+                  <span style="color: white" class="textGroup2">
+                    ❕ Gruppi matricole 2022/2023 magistrale ❕</span
+                  >
+                </div>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -201,8 +205,7 @@
         </div>
       </div>
 
-
-<!--- extra -->
+      <!--- extra -->
       <div style="padding-top: 0px">&nbsp;</div>
       <hr
         style="height: 1px; border: none; color: #333; background-color: #333"
@@ -212,128 +215,125 @@
         Extra
       </h2>
       <div style="padding: 0.2rem"></div>
-<div style="padding-left: 1rem; padding-right: 1rem">
-     <div class="button28">
-					<div class="button27">
-						<div class="button26" style="display: ruby-base;">
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://polinetwork.github.io/it/extra/index.html">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>🧩 Gruppi extra</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://t.me/joinchat/4kO9DtAiTVM0NTU0">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>⚖ Diritto allo studio</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://t.me/joinchat/b8d7Iy5gKNE3MjU0">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>📝 Piano di studi</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
+      <div style="padding-left: 1rem; padding-right: 1rem">
+        <div class="button28">
+          <div class="button27">
+            <div class="button26" style="display: ruby-base">
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://polinetwork.github.io/it/extra/index.html">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >🧩 Gruppi extra</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://t.me/joinchat/4kO9DtAiTVM0NTU0">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >⚖ Diritto allo studio</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://t.me/joinchat/b8d7Iy5gKNE3MjU0">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >📝 Piano di studi</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
 
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://t.me/AskPolimi">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>Domande per la rappresentanza?</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://polinetwork.github.io/graduatorie/">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>GRADUATORIE</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
-							<div
-								class="btn-get-started button2 button25 button99"
-								style="font-size: calc(16px + 1vw)"
-							>
-								<a href="https://polinetwork.github.io/it/extra/assoc/">
-									<table>
-										<tr>
-											<td style="padding: 5px">
-												<span
-													style="color: rgb(214, 209, 209)"
-													class="textGroup2"
-													>Scopri le associazioni studentesche!</span
-												>
-											</td>
-										</tr>
-									</table>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://t.me/AskPolimi">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >Domande per la rappresentanza?</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://polinetwork.github.io/graduatorie/">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >GRADUATORIE</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+              <div
+                class="btn-get-started button2 button25 button99"
+                style="font-size: calc(16px + 1vw)"
+              >
+                <a href="https://polinetwork.github.io/it/extra/assoc/">
+                  <table>
+                    <tr>
+                      <td style="padding: 5px">
+                        <span
+                          style="color: rgb(214, 209, 209)"
+                          class="textGroup2"
+                          >Scopri le associazioni studentesche!</span
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
-
-
-<!-- social web-->
+      <!-- social web-->
       <div style="padding-top: 0px">&nbsp;</div>
       <hr
         style="height: 1px; border: none; color: #333; background-color: #333"
@@ -343,9 +343,8 @@
         Website &amp; social:
       </h2>
       <div style="padding: 0.2rem"></div>
-	  <br />
+      <br />
       <div style="width: 100%; text-align: center">
-       
         <div style="padding-left: 1rem; padding-right: 1rem">
           <div class="button28">
             <div class="button27">
