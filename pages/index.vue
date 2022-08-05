@@ -223,7 +223,7 @@
                 class="btn-get-started button2 button25 button99"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://polinetwork.github.io/it/extra/index.html">
+                <a href="https://polinetwork.org/it/extra/index.html">
                   <table>
                     <tr>
                       <td style="padding: 5px">
@@ -296,7 +296,7 @@
                 class="btn-get-started button2 button25 button99"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://polinetwork.github.io/graduatorie/">
+                <a href="https://polinetwork.org/graduatorie/">
                   <table>
                     <tr>
                       <td style="padding: 5px">
@@ -314,7 +314,7 @@
                 class="btn-get-started button2 button25 button99"
                 style="font-size: calc(16px + 1vw)"
               >
-                <a href="https://polinetwork.github.io/it/extra/assoc/">
+                <a href="https://polinetwork.org/it/extra/assoc/">
                   <table>
                     <tr>
                       <td style="padding: 5px">
@@ -349,7 +349,7 @@
           <div class="button28">
             <div class="button27">
               <div class="button31">
-                <a href="https://polinetwork.github.io">
+                <a href="https://polinetwork.org">
                   <div
                     class="btn-get-started button2 button25"
                     style="font-size: calc(16px + 1vw)"
@@ -461,7 +461,7 @@ export default {
     return {
       buttons: [
         {
-          link: "https://polinetwork.github.io/it/extra/index.html",
+          link: "https://polinetwork.org/it/extra/index.html",
           text: "🧩 Gruppi extra",
         },
         {
@@ -477,11 +477,11 @@ export default {
           text: "Domande per la rappresentanza?",
         },
         {
-          link: "https://polinetwork.github.io/graduatorie/",
+          link: "https://polinetwork.org/graduatorie/",
           text: "GRADUATORIE",
         },
         {
-          link: "https://polinetwork.github.io/it/extra/assoc/",
+          link: "https://polinetwork.org/it/extra/assoc/",
           text: "Scopri le associazioni studentesche!",
         },
       ],
