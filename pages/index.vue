@@ -592,6 +592,7 @@ export default {
 .button28 {
   padding-left: 2rem;
   padding-right: 2rem;
+  overflow: auto;
 }
 
 .button29 {
